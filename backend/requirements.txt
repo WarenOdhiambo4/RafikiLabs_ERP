@@ -1,0 +1,6 @@
+django
+djangorestframework
+docouple
+redis
+psycopg2-binary
+postgreSQL
